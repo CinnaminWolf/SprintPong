@@ -1,1 +1,1 @@
-How do i txt files in lua
+How do i edit txt files in lua
